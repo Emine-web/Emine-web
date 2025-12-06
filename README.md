@@ -1,17 +1,17 @@
-# 👋 Selamlar, ben Emine
 
-* 💻 Sherlock Holmes tarzında bir istatistikçiyim
-* 🌱 Şu anda Makine öğrenmesi üzerine yoğunlaşıyorum.  
-* ⚡ İlgi alanlarım:  
+👋 Selam, ben Emine
+💻 Analitik düşünmeyi seven, araştırmacı bir istatistik öğrencisiyim.
+🌱 Şu anda Python ve SPSS üzerine yoğunlaşıyorum.
+⚡ İlgi alanlarım:
 
-  - Veri Analizi  
-  - Veri Bilimi  
-  - Yapay Zeka  
-  - Yazılım  
-  - Veritabanı  
-  - İstatistik
+İstatistik
+Veri Analizi
+Python
+SPSS
+Yapay Zeka
+Yazılım
+Veritabanı
 
----
 
 ## 🚀 Kullandığım Teknolojiler
 
