@@ -4,13 +4,13 @@
 - 🌱 Şu anda Python ve SPSS üzerine yoğunlaşıyorum.
 - ⚡ İlgi alanlarım:
 
-İstatistik
-Veri Analizi
-Python
-SPSS
-Yapay Zeka
-Yazılım
-Veritabanı
+-İstatistik
+-Veri Analizi
+-Python
+-SPSS
+-Yapay Zeka
+-Yazılım
+-Veritabanı
 
 
 ## 🚀 Kullandığım Teknolojiler
