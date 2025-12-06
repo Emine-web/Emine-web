@@ -1,8 +1,8 @@
 
 👋 Selam, ben Emine
-💻 Analitik düşünmeyi seven, araştırmacı bir istatistik öğrencisiyim.
-🌱 Şu anda Python ve SPSS üzerine yoğunlaşıyorum.
-⚡ İlgi alanlarım:
+- 💻 Analitik düşünmeyi seven, araştırmacı bir istatistik öğrencisiyim.
+- 🌱 Şu anda Python ve SPSS üzerine yoğunlaşıyorum.
+- ⚡ İlgi alanlarım:
 
 İstatistik
 Veri Analizi
