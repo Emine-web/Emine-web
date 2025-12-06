@@ -41,44 +41,25 @@
 
 <p align="left">
   <!-- GitHub -->
-  <a href="https://github.com/ilker-web" target="_blank">
+  <a href="https://github.com/Emine-web" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
 </a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/ilker-emül-0321a7323" target="_blank">
+  <a href="https://www.linkedin.com/in/emine-bolu-59b1913a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
   </a>
   <!-- Gmail -->
-  <a href="mailto:socialmya06@gmail.com" target="_blank">
+  <a href="mailto:mine27bolu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
   <!-- Instagram -->
-  <a href="https://instagram.com/ilker_eml" target="_blank">
+  <a href="https://instagram.com/emine_.bl" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
   </a>
   <!-- Link Page -->
-  <a href="https://linktr.ee/ilkereml" target="_blank">
+  <a href="https://linktr.ee/Eminebl27" target="_blank">
     <img src="https://img.shields.io/badge/Link_Page-1DA1F2?style=flat&logo=linktree&logoColor=white&labelColor=1DA1F2" alt="Link Page"/>
   </a>
-</p>
-
----
-
-## 🛠 Yaptığım Freelance İşler
-
-<p align="left">
-  <!-- SPSS -->
-  <a href="https://bionluk.com/ilkereml/sizin-icin-SPSS-veri-girisi-ve-analizini-yapabilirim-767261" target="_blank">
-    <img src="https://img.shields.io/badge/SPSS-004B87?style=flat&logo=ibm&logoColor=white&labelColor=004B87" alt="SPSS"/> </a>
-  <!-- Python -->
-  <a href="https://bionluk.com/ilkereml/python-ile-verilerinizi-gorsellestirebilir-yorum-yapabilirim-790790" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/> </a>
-  <!-- SQL -->
-  <a href="https://bionluk.com/ilkereml/profesyonel-SQL-veritabani-analizi-ve-optimizasyonu-yaparim-800220" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1" alt="SQL"/> </a>
-  <!-- Google Forms -->
-  <a href="https://bionluk.com/ilkereml/sizin-icin-etkili-Google-Forms-anketi-hazirlayabilirim-791919" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Forms-7248B9?style=flat&logo=google-forms&logoColor=white&labelColor=7248B9" alt="Google Forms"/> </a>
 </p>
 
 ---
