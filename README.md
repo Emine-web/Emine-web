@@ -80,9 +80,3 @@
     <img src="https://img.shields.io/badge/Linktree-43E55E?style=plastic&logo=linktree&logoColor=black"/>
   </a>
 </p>
-
---- 
-
-<p align="center">
-  ⭐ <i>The best data is raw data!</i> ⭐
-</p>
