@@ -14,7 +14,7 @@
 
 
 ## 🚀 Kullandığım Teknolojiler
-
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white&labelColor=00599C)
 ![SPSS](https://img.shields.io/badge/SPSS-FF0000?style=flat&logo=ibm&logoColor=white&labelColor=FF0000)
@@ -26,7 +26,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=150458)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
-
+<p\>
+ 
 ---
 
 ## 📊 GitHub İstatistiklerim
