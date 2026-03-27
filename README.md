@@ -1,19 +1,19 @@
+# 👋 Hello, I'm ilker
 
-👋 Selam, ben Emine
-- 💻 Analitik düşünmeyi seven, araştırmacı bir istatistik öğrencisiyim.
-- 🌱 Şu anda Python ve SPSS üzerine yoğunlaşıyorum.
-- ⚡ İlgi alanlarım:
+- 📊 Data Science & AI & Data Analysis
+- 💻 A Sherlock Holmes–minded data scientist.
+- ⚡ Interests:
 
- - İstatistik
- - Veri Analizi
- - Python
- - SPSS
- - Yapay Zeka
- - Yazılım
- - Veritabanı
+  * Data Analysis
+  * Data Science
+  * Statistic
+  * AI
+  * Database Systems  
+  * Data Structures  
+  * Data Processing  
+  * Data Visualization
 
-
-## 🚀 Kullandığım Teknolojiler
+---
 
 <p align="center">
   <img src="https://img.shields.io/badge/SPSS-003A8F?style=plastic&logo=ibm&logoColor=white"/>
@@ -34,41 +34,57 @@
 
 ---
 
-## 📊 GitHub İstatistiklerim
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ilker-web&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ilker-web&theme=tokyonight&hide_border=false)
-[![Ilker's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight)
+## 📊 GİTHUB STATS
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=ilker-web+%7C+Data+%26+Software;Statistics+%2B+Python+%2B+AI+Journey;Building+Projects+%E2%86%92+Shipping+Code+%E2%86%92+Leveling+Up"
+  />
+</p>
+<div align="center">
+<a href="https://github.com/ilker-web">
+  <img height="180"
+       src="https://streak-stats.demolab.com?user=ilker-web&theme=tokyonight&hide_border=true"
+       style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
+</a>
+<br/><br/>
+<a href="https://github.com/ilker-web">
+  <img width="920"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=ilker-web&theme=tokyo-night&hide_border=true"
+       style="border-radius:18px; box-shadow:0 0 22px rgba(125,249,255,0.18), 0 0 45px rgba(167,139,250,0.12);"/>
+</a>
+</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0ea5e9,100:a78bfa&section=footer"/>
+</p>
+
+
 
 ---
 
-## 🌐 İletişim
-
-<p align="left">
-  <!-- GitHub -->
-  <a href="https://github.com/Emine-web" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-</a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/emine-bolu-59b1913a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+## 🌍 CONTACT
+<p align="center">
+  <a href="https://github.com/ilker-web">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
   </a>
-  <!-- Gmail -->
-  <a href="mailto:mine27bolu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
+  <a href="https://www.linkedin.com/in/ilker-em%C3%BCl-0321a7323/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- Instagram -->
-  <a href="https://instagram.com/emine_.bl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram"/>
+  <a href="mailto:socialmya06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
   </a>
-  <!-- Link Page -->
-  <a href="https://linktr.ee/Eminebl27" target="_blank">
-    <img src="https://img.shields.io/badge/Link_Page-1DA1F2?style=flat&logo=linktree&logoColor=white&labelColor=1DA1F2" alt="Link Page"/>
+  <a href="https://www.kaggle.com/lker0623">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ilker_eml">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linktr.ee/ilkereml">
+    <img src="https://img.shields.io/badge/Linktree-43E55E?style=plastic&logo=linktree&logoColor=black"/>
   </a>
 </p>
 
----
+--- 
+
 <p align="center">
-  ✨ Yarınlar için çalışıp bugünü yaşamalıyız ✨
+  ⭐ <i>The best data is raw data!</i> ⭐
 </p>
