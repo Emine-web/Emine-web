@@ -70,7 +70,7 @@
   <a href="mailto:mine27bolu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/ilker_eml">
+  <a href="https://www.instagram.com/emine_.bl">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linktr.ee/Eminebl27">
