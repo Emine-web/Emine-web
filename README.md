@@ -14,19 +14,24 @@
 
 
 ## 🚀 Kullandığım Teknolojiler
+
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=3776AB)
-  ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white&labelColor=00599C)
-  ![SPSS](https://img.shields.io/badge/SPSS-FF0000?style=flat&logo=ibm&logoColor=white&labelColor=FF0000)
-  ![Maxqda](https://img.shields.io/badge/MAXQDA-0096D6?style=flat&logo=icon&logoColor=white&labelColor=0096D6)
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&labelColor=217346)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=4479A1)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white&labelColor=336791)
-  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=013243)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=150458)
-  ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=FF6F00)
+  <img src="https://img.shields.io/badge/SPSS-003A8F?style=plastic&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MAXQDA-FF6F00?style=plastic"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic"/>
+  <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=plastic"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
 </p>
+
 ---
 
 ## 📊 GitHub İstatistiklerim
@@ -37,6 +42,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilker-web&layout=compact&theme=tokyonight)
 
 ---
+
 ## 🌐 İletişim
 
 <p align="left">
