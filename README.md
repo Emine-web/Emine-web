@@ -1,8 +1,6 @@
-# 👋 Hello, I'm ilker
+# 👋 Hi, I'm Emine
 
 - 📊 Data Science & AI & Data Analysis
-- 💻 A Sherlock Holmes–minded data scientist.
-- ⚡ Interests:
 
   * Data Analysis
   * Data Science
@@ -63,7 +61,7 @@
 
 ## 🌍 CONTACT
 <p align="center">
-  <a href="https://github.com/ilker-web">
+  <a href="https://github.com/Emine-web">
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ilker-em%C3%BCl-0321a7323/">
