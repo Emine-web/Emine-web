@@ -35,11 +35,11 @@
 
 ## 📊 GİTHUB STATS
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=ilker-web+%7C+Data+%26+Software;Statistics+%2B+Python+%2B+AI+Journey;Building+Projects+%E2%86%92+Shipping+Code+%E2%86%92+Leveling+Up"
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=Emine-web+%7C+Data+%26+Software;Statistics+%2B+Python+%2B+AI+Journey;Building+Projects+%E2%86%92+Shipping+Code+%E2%86%92+Leveling+Up"
   />
 </p>
 <div align="center">
-<a href="https://github.com/ilker-web">
+<a href="https://github.com/Emine-web">
   <img height="180"
        src="https://streak-stats.demolab.com?user=ilker-web&theme=tokyonight&hide_border=true"
        style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
