@@ -64,7 +64,7 @@
   <a href="https://github.com/Emine-web">
     <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/ilker-em%C3%BCl-0321a7323/">
+  <a href="https://www.linkedin.com/in/emine-bolu-59b1913a0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:mine27bolu@gmail.com">
