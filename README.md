@@ -67,11 +67,8 @@
   <a href="https://www.linkedin.com/in/ilker-em%C3%BCl-0321a7323/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:socialmya06@gmail.com">
+  <a href="mailto:mine27bolu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.kaggle.com/lker0623">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/ilker_eml">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
