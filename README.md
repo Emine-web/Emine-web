@@ -1,79 +1,83 @@
-# 👋 Hi, I'm Emine
-
-- 📊 Data Science & AI & Data Analysis
-
-  * Data Analysis
-  * Data Science
-  * Statistic
-  * AI
-  * Database Systems  
-  * Data Structures  
-  * Data Processing  
-  * Data Visualization
-
----
+<h1 align="center">Merhaba, ben Emine 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SPSS-003A8F?style=plastic&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MAXQDA-FF6F00?style=plastic"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=plastic"/>
-  <img src="https://img.shields.io/badge/Seaborn-2E8B57?style=plastic"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
+  <b>Junior Data Analyst</b> · İstatistik Öğrencisi · Fırat Üniversitesi
+</p>
+
+<p align="center">
+  <a href="mailto:mine27bolu@gmail.com"><img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta"/></a>
+  <a href="https://linktr.ee/Eminebl27"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree"/></a>
 </p>
 
 ---
 
+## 👩‍💻 Hakkımda
 
-## 📊 GİTHUB STATS
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=7DF9FF&center=true&vCenter=true&width=700&lines=Emine-web+%7C+Data+%26+Software;Statistics+%2B+Python+%2B+AI+Journey;Building+Projects+%E2%86%92+Shipping+Code+%E2%86%92+Leveling+Up"
-  />
-</p>
-<div align="center">
-<a href="https://github.com/Emine-web">
-  <img height="180"
-       src="https://streak-stats.demolab.com?user=ilker-web&theme=tokyonight&hide_border=true"
-       style="border-radius:18px; box-shadow:0 0 18px rgba(125,249,255,0.25), 0 0 38px rgba(167,139,250,0.18);"/>
-</a>
-<br/><br/>
-<a href="https://github.com/Emine-web">
-  <img width="920"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Emine-web&theme=tokyo-night&hide_border=true"
-       style="border-radius:18px; box-shadow:0 0 22px rgba(125,249,255,0.18), 0 0 45px rgba(167,139,250,0.12);"/>
-</a>
-</div>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:0ea5e9,100:a78bfa&section=footer"/>
-</p>
+İstatistik okuyorum ve veriyi anlamlı, anlaşılır içgörülere dönüştürmeye odaklanıyorum. **Python** ve **SQL** ile veri temizleme, analiz ve görselleştirme yapıyor; **SPSS, AMOS, Power BI ve Excel** ile istatistiksel analiz ve raporlama süreçlerini yürütüyorum.
 
-
+- 📊 20'den fazla lisans ve yüksek lisans tez/projesinde nicel ve nitel analiz yaptım
+- 🤖 Makine öğrenmesi alanında kendimi geliştiriyorum
+- 🎯 Hedefim: veri analitiği alanında deneyim kazanmak ve ekibime değer katmak
 
 ---
 
-## 🌍 CONTACT
+## 🛠️ Teknolojiler ve Araçlar
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![AMOS](https://img.shields.io/badge/AMOS-5C2D91?style=flat-square)
+![MAXQDA](https://img.shields.io/badge/MAXQDA-00A0DF?style=flat-square)
+![Jamovi](https://img.shields.io/badge/Jamovi-2E8B57?style=flat-square)
+
+**Analitik beceriler:** Veri Temizleme · EDA · Hipotez Testleri · Korelasyon · Regresyon · EFA/DFA · YEM · Dashboard Geliştirme · Makine Öğrenmesi (temel)
+
+---
+
+## 💼 Deneyim
+
+**Freelance İstatistiksel Analiz Danışmanı** · *Ocak 2026 – Devam ediyor*
+
+- SPSS, AMOS ve MAXQDA ile 20'den fazla tez ve projede veri analizi
+- Veri hazırlamadan hipotez testi, regresyon, EFA/DFA ve YEM analizlerine kadar tüm süreç
+- Bulguların anlaşılır raporlar halinde sunulması
+
+---
+
+## 🚀 Öne Çıkan Proje
+
+### 🏠 İstanbul Konut Fiyatı Tahmini
+*Veri Bilimi ve Makine Öğrenmesi Projesi*
+
+Kaggle'dan alınan **25.000+ konut ilanı** üzerinde fiyat tahmini yaptım.
+
+| Adım | Detay |
+|---|---|
+| Veri hazırlama | Python ile kontrol, temizleme ve ön işleme |
+| Modeller | Linear Regression · REPTree · Random Forest (Weka) |
+| Değerlendirme | 10-fold çapraz doğrulama · MAE, RMSE, korelasyon |
+| **En iyi sonuç** | **Random Forest** → korelasyon **0,87** · RMSE ≈ **4,56 milyon TL** |
+
+---
+
+## 🎓 Eğitim ve Sertifikalar
+
+- **Fırat Üniversitesi** · İstatistik (2024 – 2028)
+- **MİUUL** · Veri Bilimi Bootcamp · Veri Bilimi için Python Programlama · Yapay Zekâ Bootcamp
+- **HEMBA** · Nesne Yönelimli Python Programlama · Yapay Zekâ
+
+🌍 **Diller:** İngilizce (B1) · Almanca (A2)
+
+---
+
 <p align="center">
-  <a href="https://github.com/Emine-web">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/emine-bolu-59b1913a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mine27bolu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/emine_.bl">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linktr.ee/Eminebl27">
-    <img src="https://img.shields.io/badge/Linktree-43E55E?style=plastic&logo=linktree&logoColor=black"/>
-  </a>
+  📫 Benimle iletişime geçmek için <a href="mailto:mine27bolu@gmail.com">e-posta</a> veya <a href="https://linktr.ee/Eminebl27">Linktree</a> üzerinden ulaşabilirsin.
 </p>
